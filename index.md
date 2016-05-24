@@ -5,7 +5,7 @@ categories: bc2
 date:   2016-05-24 02:32:06 +0100
 ---
 
-![BC2 Logo](/img/bc2-logo.png)
+![BC2 Logo](/bc2/img/bc2-logo.png)
 
 Why use BC2?
 ============
