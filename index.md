@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  ""
+title:  "We buy income streams"
 categories: bc2
 date:   2016-05-24 02:32:06 +0100
 ---
